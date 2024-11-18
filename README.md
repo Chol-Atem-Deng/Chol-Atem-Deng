@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Frontend Development**
 
-- 👨‍💻 All of my projects are available at [https://chol-atem-deng.github.io/My_Portfolio/](https://chol-atem-deng.github.io/My_Portfolio/)
+- 👨‍💻 All of my projects are available at https://github.com/Chol-Atem-Deng?tab=repositories
 
 - 💬 Ask me about **HTML, CSS and JavaScript**
 
